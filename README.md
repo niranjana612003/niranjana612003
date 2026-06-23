@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Kerala, India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Full-Stack+Developer;Building+AI-powered+products;Open+to+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Building+AI-powered+products;Open+to+opportunities" alt="Typing SVG" />
 </p>
 
 ---
