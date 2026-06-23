@@ -14,7 +14,7 @@ I'm a passionate developer who loves building intelligent, real-world applicatio
 - 🔭 Currently building **Mentora** — an AI-powered mentorship platform
 - 🌱 Exploring **LLMs, RAG pipelines, and cloud deployment**
 - 💡 Interested in **AI products, data science, and scalable web apps**
-- 💼 Open to **ML Engineer / Full-Stack Developer** internships & full-time roles
+- 💼 Open to **Full-Stack Developer** internships & full-time roles
 - 📍 Based in **Kerala, India**
 
 ---
